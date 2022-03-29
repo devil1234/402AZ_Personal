@@ -1,0 +1,65 @@
+{
+    "id": "1",
+    "imageUrl": "http://google.ro",
+    "length": "45m",
+    "userRating": "5",
+    "totalSeasons": "1",
+    "description": "Test Description",
+    "name": "Lucifer",
+    "genre": "Action",
+    "seasons": 
+    [
+        {
+            "seasonReleaseDate": "2020-12-1",
+            "seasonId": "1",
+            "totalEpisodes": "2",
+            "userRating": "5",
+            "imageUrl": "http://google.ro",
+            "episodes": 
+            [
+                {
+                    "episodeId": 1,
+                    "episodeLenght": "45m",
+                    "userRating": "5",
+                    "episodeName": "Test Episode 1",
+                    "episodeReleaseDate": "2020-12-1",
+                    "imageUrl": "http://google.ro"
+                },
+                {
+                    "episodeDuration": "45m",
+                    "episodeId": 2,
+                    "userRating": "5",
+                    "episodeName": "Test Episode 2",
+                    "episodeReleaseDate": "2020-12-1",
+                    "imageUrl": "http://google.ro"
+                }
+            ]
+        },
+        {
+            "seasonReleaseDate": "2020-12-1",
+            "seasonId": "2",
+            "totalEpisodes": "2",
+            "userRating": "5",
+            "imageUrl": "http://google.ro",
+            "episodes": 
+            [
+                {
+                    "episodeId": 1,
+                    "episodeLenght": "45m",
+                    "userRating": "5",
+                    "episodeName": "Test Episode 1",
+                    "episodeReleaseDate": "2020-12-1",
+                    "imageUrl": "http://google.ro"
+                },
+                {
+                    "episodeDuration": "45m",
+                    "episodeId": 2,
+                    "userRating": "5",
+                    "episodeName": "Test Episode 2",
+                    "episodeReleaseDate": "2020-12-1",
+                    "imageUrl": "http://google.ro"
+                }
+            ]
+        }
+    ]
+}
