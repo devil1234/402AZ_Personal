@@ -1,1 +1,47 @@
 @import "~bulma/css/bulma.css";
+.navbar-menu {
+    background-color: #F9F6F0;
+}
+.navbar-brand {
+    background-color: #F9F6F0;
+}
+
+.footer {
+    background-color: #F9F6F0;
+}
+
+html {
+    background: #F9F6F0;
+}
+
+.TvShowMain {
+    background-color: #F9F6F0;
+}
+.TvShowSeasons {
+    background-color: #F9F6F0;
+}
+.TvShowCard {
+    background-color: #F9F6F0;
+    width: 200px !important;
+}
+
+.TvshowSeason-cards{
+    background-color: #F9F6F0;
+}
+
+.slick-slide img {
+    margin: auto;
+  }
+
+  .carousel-container {
+    padding: 10px;
+    background: #419be0;
+  }
+
+.ui.horizontal.divider {
+    color: black !important;
+}
+
+.TvShowSeasonsCard {
+    width: 200px !important;
+}
